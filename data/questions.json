@@ -1,0 +1,114 @@
+[
+    {   
+        "id":"1",
+        "pregunta":"De que serie es conocido este personaje",
+        "respuestas":[
+            {
+                "id":"1",
+                "text":"Stranger Things",
+                "rigth":true
+            },
+            {
+                "id":"2",
+                "text":"The 100",
+                "rigth":false
+            },
+            {
+                "id":"3",
+                "text":"Ozark",
+                "rigth":false
+            },
+            {
+                "id":"4",
+                "text":"Dark",
+                "rigth":false
+            }
+        ],
+        "img":"img/img-1.jpg",
+        "puntuacion":"10"
+    },
+    {   
+        "id":"2",
+        "pregunta":"Como se llaman estos personajes de 'Dark'",
+        "respuestas":[
+            {
+                "id":"1",
+                "text":"Jonas y Martha",
+                "rigth":true
+            },
+            {
+                "id":"2",
+                "text":"Mike y Emily",
+                "rigth":false
+            },
+            {
+                "id":"3",
+                "text":"Jonnan y Melisa",
+                "rigth":false
+            },
+            {
+                "id":"4",
+                "text":"Willy y Megan",
+                "rigth":false
+            }
+        ],
+        "img":"img/img-2.jpg",
+        "puntuacion":"10"
+    },
+    {   
+        "id":"3",
+        "pregunta":"Como se llama la inteligencia de Ironman",
+        "respuestas":[
+            {
+                "id":"1",
+                "text":"Jarvis",
+                "rigth":true
+            },
+            {
+                "id":"2",
+                "text":"Larry",
+                "rigth":false
+            },
+            {
+                "id":"3",
+                "text":"Mary",
+                "rigth":false
+            },
+            {
+                "id":"4",
+                "text":"Jannis",
+                "rigth":false
+            }
+        ],
+        "img":"img/img-3.jpg",
+        "puntuacion":"10"
+    },
+    {
+        "id":"4",
+        "pregunta":"Como se llama este personaje en la casa de papel",
+        "respuestas":[
+            {
+                "id":"1",
+                "text":"Marsella",
+                "rigth":true
+            },
+            {
+                "id":"2",
+                "text":"Monaco",
+                "rigth":false
+            },
+            {
+                "id":"3",
+                "text":"Moscu",
+                "rigth":false
+            },
+            {
+                "id":"4",
+                "text":"venecia",
+                "rigth":false
+            }
+        ],
+        "img":"img/img-4.jpg",
+        "puntuacion":"10"
+    }
+]
