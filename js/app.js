@@ -46,6 +46,7 @@ function init(){
         let question = dataQuestions.find(q =>q.id==idQuestion);
         let idAnswer = item.getAttribute("data-id-answer");
         let qAnswer = question.respuestas.find(a => a.id == idAnswer);
+        console.log(qAnswer);
     })
     })
 }
